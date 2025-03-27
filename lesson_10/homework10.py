@@ -1,7 +1,7 @@
 import unittest
 from unittest.mock import patch
 import logging
-from modul11 import log_event  
+from konsta import log_event  
 
 class TestLogEvent(unittest.TestCase):
     def setUp(self):
